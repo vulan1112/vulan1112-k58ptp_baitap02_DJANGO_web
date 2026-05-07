@@ -59,3 +59,24 @@ tự hiện FK
 
 <img width="1887" height="1080" alt="image" src="https://github.com/user-attachments/assets/77970f94-72e4-48a4-b6ab-5a944e709fe4" />
 
+***kết nối Cloudflare Tunnel***
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44fbf1db-8b85-4e26-a251-015773c8a136" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11730550-6c19-438b-8f77-f6c0f2285932" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a240793-1454-4d7d-b199-d643b3b3e4c9" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64977cf8-9ac5-4ef5-811f-6f588d8d3254" />
+
+**con nợ quá hạn**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7054a54-d0e3-4cdd-a7f0-922c114b195e" />
+
+**up ảnh vật cầm hay giấy nợ viết tay lên**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13348453-044b-4b50-9714-f916fae09223" />
+
+
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/e9c34e8e-2f23-45f9-828e-c07175cee05c" />
+
