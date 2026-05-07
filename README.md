@@ -77,6 +77,16 @@ tự hiện FK
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13348453-044b-4b50-9714-f916fae09223" />
 
+<img width="1909" height="1069" alt="image" src="https://github.com/user-attachments/assets/a9a6865c-0a18-46cb-a312-85a3896d54a5" />
+
+# 1.TỔ CHỨC CSDL CHO HỆ THỐNG QUẢN LÝ TIỆM CẦM ĐỒ: viết tay ra giấy, lấy điện thoại chụp lại, upload ảnh lên github (đã nói về các nghiệp vụ trên lớp, ghi bảng)
 
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/e9c34e8e-2f23-45f9-828e-c07175cee05c" />
 
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/22594b15-c95c-4fc6-9c66-e481db7acbf8" />
+
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/3d1dbc7a-df60-4014-95f3-ea7406301660" />
+
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/ccf52294-c815-4655-8a24-ea1e456e2bf4" />
+
+<img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/2264217d-de92-4823-81d4-3a962b1711bf" />
