@@ -90,3 +90,5 @@ tự hiện FK
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/ccf52294-c815-4655-8a24-ea1e456e2bf4" />
 
 <img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/2264217d-de92-4823-81d4-3a962b1711bf" />
+
+<img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/eb0abeba-3b46-436f-9a39-d557bbc30c96" />
