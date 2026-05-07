@@ -33,6 +33,10 @@ deadline : 23h59 ngày 09 tháng 5 năm 2026.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43f9846c-b333-4140-83b5-6b8c4b91ad67" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fed2049-c8ef-4e98-9c7d-122d1c7a7c94" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73b53860-2ef2-4a2a-80db-15a8a90fa3a0" />
+
 **Test**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46199046-7c18-462c-94ac-2804d6bb5f6c" />
@@ -44,4 +48,14 @@ tự hiện FK
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/116d5e9e-500f-4418-9940-baac269be2cd" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4e11232-8820-4298-b10a-fb0c5017cd4b" />
+
+**Danh sách con nợ** đã trả và quá hạn chưa trả
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60fa5690-0b0c-4b63-a09a-d224fe97619a" />
+
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/08df232b-4bb6-4fcc-a28e-221b0fffdd6d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b06973fa-fdbc-4627-8e97-c237338d6a70" />
+
+<img width="1887" height="1080" alt="image" src="https://github.com/user-attachments/assets/77970f94-72e4-48a4-b6ab-5a944e709fe4" />
 
